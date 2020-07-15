@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/glmchn" target="_blank"><img src="https://img.icons8.com/cute-clipart/32/000000/twitter.png"/> /glmchn</a>
+<a href="https://twitter.com/glmchn" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/> /glmchn</a>
 
 <img src="https://img.icons8.com/office/32/000000/worldwide-location.png"/> Nantes, FR <img src="https://img.icons8.com/office/16/000000/france.png"/>
 
