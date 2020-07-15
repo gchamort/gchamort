@@ -14,7 +14,8 @@
 ## Learning
 - Bash/Shell
 - Powershell
-- C#
+- C & C#
+- Js/Ts/React
 - Dart & Flutter
 
 <!--
