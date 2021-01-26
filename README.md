@@ -3,10 +3,6 @@
 <img src="https://img.icons8.com/office/32/000000/worldwide-location.png"/> Nantes, FR <img src="https://img.icons8.com/office/16/000000/france.png"/>
 
 ## Sysadmin to become
-🔭 Seeking for a work-study contract about
-- Cloud (IaC, IaaS, PaaS)
-- Virtualization technologies
-- Infrastructure on premise (Data center)
 
 ## Working on
 - Docker w/ Kubernetes
